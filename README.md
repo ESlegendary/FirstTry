@@ -1,2 +1,2 @@
 # FirstTry
-Cat drinking milk
+Cat drinking milk standing up
